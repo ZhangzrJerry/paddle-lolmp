@@ -1,4 +1,4 @@
-## 飞桨学习赛：英雄联盟大师预测2023年2月85.345分方案
+## 飞桨学习赛：英雄联盟大师预测2023年2月85.365分方案
 ### 比赛链接 - [飞桨学习赛：英雄联盟大师预测](https://aistudio.baidu.com/aistudio/competition/detail/247/0/introduction)
 ### 赛题介绍
 
