@@ -1,0 +1,8 @@
+category_encoders
+seaborn
+numpy
+pandas
+sklearn
+gplearn
+IPython
+pydotplus
